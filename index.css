@@ -1,15 +1,17 @@
 body {
-    margin: 0;
     background:#1F2937;
-    width:100%;
+    width:800px;
     font-family:inter,sans-serif;
     display: block;
+    text-align:start;
+    align-items: center;
+    margin: auto;
 }
 .app-el{
-    margin:50px 100px 10px 150px;
-}
-.title,.displayPassword{
-    margin-left: 100px;
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 50px;
+
 }
 .title1{
     color:whitesmoke;
@@ -29,7 +31,7 @@ body {
 #generate-el{
     text-align: center;
     padding:8px;
-    margin-left:150px ;
+    margin-left:200px ;
     margin-right:150px;
     background:#10B981;
     font-family: karla ,sans-serif;
